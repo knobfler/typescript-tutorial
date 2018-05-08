@@ -8,4 +8,3 @@ export default combineReducers({
 export interface StoreState {
     counter: CounterState;
 }
-
